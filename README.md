@@ -2,8 +2,8 @@
 # Hi! I'm Alif.
 ### I'm a Biomedical Engineering student specializing in software and machine learning and am currently on a path towards being a full-stack web developer
 
-
-
+### Currently Working on: 
+![currentproject](https://img.shields.io/badge/Hephaestus_Creative_Labs_|_Company_Website-fdf0d5?style=for-the-badge)
 
 ## 🚀 About Me
 I'm a frontend developer and graphic designer with a strong foundation in programming languages such as HTML, CSS, Python and Javascript as well as wireframing applications such as Figma. I also possess a bit of knowledge on backend development (enough for me to create simple web CRUD APIs). I usually work with a PostgreSQL, ExpressJS, ReactJS, and Node. I'm striving to be a versatile developer and am currently learning other stacks.
