@@ -16,14 +16,23 @@ I'm a frontend developer and graphic designer with a strong foundation in progra
 ![PostgreSQL](https://img.shields.io/badge/postgressql+Prisma-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/express-red?style=for-the-badge)
 ![React](https://img.shields.io/badge/react-lightblue?style=for-the-badge)
+![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
 ![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
+
+#### Mobile-Development:
+![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge)
+![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
+![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
+
 #### Data Analysis:
 ![MatLAB](https://img.shields.io/badge/MatLAB-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+
 ### ▶️ Skills I'm currently learning
-![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
-### ✴️ Skills I will learn next:
 ![Vue](https://img.shields.io/badge/VueJS-sage?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Flutter+Dart-blue?style=for-the-badge)
+
+### ✴️ Skills I will learn next:
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
 ![PHP Programming](https://img.shields.io/badge/PHP-purple?style=for-the-badge)
 >![More](https://img.shields.io/badge/more_to_come...-black?style=for-the-badge)
