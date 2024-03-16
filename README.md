@@ -3,6 +3,7 @@
 ### I'm a Biomedical Engineering student specializing in software and machine learning and am currently on a path towards being a full-stack web developer
 
 ### Currently Working on: 
+![currentproject](https://img.shields.io/badge/Cocomaret_|_Admin_Dashboard-lightblue?style=for-the-badge)
 ![currentproject](https://img.shields.io/badge/Hephaestus_Creative_Labs_|_Company_Website-fdf0d5?style=for-the-badge)
 
 ## 🚀 About Me
