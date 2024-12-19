@@ -1,14 +1,9 @@
 
 # Hi! I'm Alif.
-### I'm a Biomedical Engineering student specializing in software and machine learning and am currently on a path towards being a full-stack web developer
-
-### Currently Working on: 
-![currentproject](https://img.shields.io/badge/Cocomaret_|_Admin_Dashboard-lightblue?style=for-the-badge)
-![currentproject](https://img.shields.io/badge/Hephaestus_Creative_Labs_|_Company_Website-fdf0d5?style=for-the-badge)
+### I'm a Biomedical Engineering student specializing in software and machine learning and am currently on a path towards being a security-oriented software developer
 
 ## 🚀 About Me
-I'm a frontend developer and graphic designer with a strong foundation in programming languages such as HTML, CSS, Python and Javascript as well as wireframing applications such as Figma. I also possess a bit of knowledge on backend development (enough for me to create simple web CRUD APIs). I usually work with a PostgreSQL, ExpressJS, ReactJS, and Node. I'm striving to be a versatile developer and am currently learning other stacks.
-
+I'm a fullstack web developer and graphic designer with a strong foundation in Kotlin, Python and Javascript/Typescript as well as wireframing applications such as Figma. I am also in the process of learning Cybersecurity in order to become a security-oriented software developer as well as a cybersecurity professional. I am most familiar with a PostgreSQL, ReactTs, HonoJs and Node Techstack. I'm striving to be a versatile developer and am currently learning other stacks.
 
 ## 🛠 Skills
 ### ✅ Skills I've learned
@@ -20,6 +15,7 @@ I'm a frontend developer and graphic designer with a strong foundation in progra
 ![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
 
 #### Mobile-Development:
+![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge)
 ![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge)
 ![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
 ![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
@@ -29,8 +25,8 @@ I'm a frontend developer and graphic designer with a strong foundation in progra
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 
 ### ▶️ Skills I'm currently learning
-![Vue](https://img.shields.io/badge/VueJS-sage?style=for-the-badge)
-![Dart](https://img.shields.io/badge/Flutter+Dart-blue?style=for-the-badge)
+![PHP-Codeigniter](https://img.shields.io/badge/PHP-orange?style=for-the-badge)
+![SSDLC](https://img.shields.io/badge/Secure_Software_Development_Life_Cycle-blue?style=for-the-badge)
 
 ### ✴️ Skills I will learn next:
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
