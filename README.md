@@ -1,6 +1,6 @@
 
 # Hi! I'm Alif.
-### I'm a Biomedical Engineering student specializing in software and machine learning and am currently on a path towards being a security-oriented software developer
+### I'm a Biomedical Engineering graduate specializing in software and machine learning and am currently on a path towards being a security-oriented software developer
 
 ## 🚀 About Me
 I'm a fullstack web developer and graphic designer with a strong foundation in Kotlin, Python and Javascript/Typescript as well as wireframing applications such as Figma. I am also in the process of learning Cybersecurity in order to become a security-oriented software developer as well as a cybersecurity professional. I am most familiar with a PostgreSQL, ReactTs, HonoJs and Node Techstack. I'm striving to be a versatile developer and am currently learning other stacks.
