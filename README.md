@@ -7,7 +7,7 @@ I'm a fullstack web developer and graphic designer with a strong foundation in J
 
 # 🛠 Skills
 
-## ✅ Skills I've learned
+### ✅ Skills I've learned
 
 ---
 
