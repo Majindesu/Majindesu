@@ -13,6 +13,8 @@ I'm a fullstack web developer and graphic designer with a strong foundation in K
 ![React](https://img.shields.io/badge/react-lightblue?style=for-the-badge)
 ![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
 ![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
+![PHP-Codeigniter](https://img.shields.io/badge/PHP-orange?style=for-the-badge)
+![SSDLC](https://img.shields.io/badge/Secure_Software_Development_Life_Cycle-blue?style=for-the-badge)
 
 #### Mobile-Development:
 ![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge)
@@ -25,8 +27,8 @@ I'm a fullstack web developer and graphic designer with a strong foundation in K
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 
 ### ▶️ Skills I'm currently learning
-![PHP-Codeigniter](https://img.shields.io/badge/PHP-orange?style=for-the-badge)
-![SSDLC](https://img.shields.io/badge/Secure_Software_Development_Life_Cycle-blue?style=for-the-badge)
+![Spring Boot Java](https://img.shields.io/badge/Java-Spring%20Boot-green?style=for-the-badge&labelColor=purple&logo=springboot)
+
 
 ### ✴️ Skills I will learn next:
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
