@@ -10,16 +10,19 @@ I'm a fullstack web developer and graphic designer with a strong foundation in J
 #### Software Development:
 # DBs and ORMs
 ![Prisma](https://img.shields.io/badge/PSQL-Prisma-black?style=for-the-badge&labelColor=white&logo=postgresql)
+
 ![Drizzle](https://img.shields.io/badge/PSQL-Drizzle-Drizzle?style=for-the-badge&labelColor=white&logo=postgresql)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-Compass-white?style=for-the-badge&labelColor=green&logo=mongodb)
 
 # Backend Frameworks
 ![Express](https://img.shields.io/badge/TypeScript-Express-red?style=for-the-badge&labelColor=180052&logo=typescript)
+
 ![Hono](https://img.shields.io/badge/TypeScript-Hono-orange?style=for-the-badge&labelColor=180052&logo=typescript)
 
 # Web Frontend Frameworks
 ![React](https://img.shields.io/badge/TypeScript-React-00c1ff?style=for-the-badge&labelColor=180052&logo=typescript)
+
 ![Vue](https://img.shields.io/badge/TypeScript-Vue-01d19c?style=for-the-badge&labelColor=180052&logo=typescript)
 
 ![PHP-CI](https://img.shields.io/badge/PHP-Codeigniter-red?style=for-the-badge&labelColor=white&logo=codeigniter)
@@ -29,6 +32,7 @@ I'm a fullstack web developer and graphic designer with a strong foundation in J
 
 # Fullstack Frameworks
 ![Nuxt.TS](https://img.shields.io/badge/Nuxt.TS-01d19c?style=for-the-badge)
+
 ![Next.TS](https://img.shields.io/badge/Next.TS-black?style=for-the-badge)
 
 # Runtime
@@ -36,6 +40,7 @@ I'm a fullstack web developer and graphic designer with a strong foundation in J
 
 #### Data Analysis:
 ![MatLAB](https://img.shields.io/badge/MatLAB-orange?style=for-the-badge)
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 
 ### ▶️ Skills I'm currently learning
