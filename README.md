@@ -41,7 +41,7 @@ Listed here are skills I've learned during journey as a developer. Since each te
 
 ### Mobile Frontend 
 
-![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge)
+![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge&logo=react))
 
 ---
 
