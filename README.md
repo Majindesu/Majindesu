@@ -3,24 +3,34 @@
 ### I'm a Biomedical Engineering graduate specializing in software and machine learning and am currently on a path towards being a security-oriented software developer
 
 ## 🚀 About Me
-I'm a fullstack web developer and graphic designer with a strong foundation in Kotlin, Python and Javascript/Typescript as well as wireframing applications such as Figma. I am also in the process of learning Cybersecurity in order to become a security-oriented software developer as well as a cybersecurity professional. I am most familiar with a PostgreSQL, ReactTs, HonoJs and Node Techstack. I'm striving to be a versatile developer and am currently learning other stacks.
+I'm a fullstack web developer and graphic designer with a strong foundation in Java, Python and Javascript/Typescript as well as wireframing applications such as Figma. I am also in the process of learning Cybersecurity in order to become a security-oriented software developer as well as a cybersecurity professional. I am most familiar with a PostgreSQL, ReactTs, HonoJs and Node Techstack. I'm striving to be a versatile developer and am currently learning other stacks.
 
 ## 🛠 Skills
 ### ✅ Skills I've learned
-#### Web-Development:
-![PostgreSQL](https://img.shields.io/badge/postgressql+Prisma-blue?style=for-the-badge)
-![Express](https://img.shields.io/badge/express-red?style=for-the-badge)
-![React](https://img.shields.io/badge/react-lightblue?style=for-the-badge)
-![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
-![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
+#### Software Development:
+# DBs and ORMs
+![Prisma](https://img.shields.io/badge/PSQL-Prisma-black?style=for-the-badge&labelColor=white&logo=postgresql)
+![Drizzle](https://img.shields.io/badge/PSQL-Drizzle-Drizzle?style=for-the-badge&labelColor=white&logo=postgresql)
 
-![PHP-Codeigniter](https://img.shields.io/badge/PHP-orange?style=for-the-badge)
-![SSDLC](https://img.shields.io/badge/Secure_Software_Development_Life_Cycle-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-Compass-white?style=for-the-badge&labelColor=green&logo=mongodb)
 
-#### Mobile-Development:
-![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge)
+# Backend Frameworks
+![Express](https://img.shields.io/badge/TypeScript-Express-red?style=for-the-badge&labelColor=180052&logo=typescript)
+![Hono](https://img.shields.io/badge/TypeScript-Hono-orange?style=for-the-badge&labelColor=180052&logo=typescript)
+
+# Web Frontend Frameworks
+![React](https://img.shields.io/badge/TypeScript-React-00c1ff?style=for-the-badge&labelColor=180052&logo=typescript)
+![Vue](https://img.shields.io/badge/TypeScript-Vue-01d19c?style=for-the-badge&labelColor=180052&logo=typescript)
+![PHP-CI](https://img.shields.io/badge/PHP-Codeigniter-red?style=for-the-badge&labelColor=white&logo=codeigniter)
+
+# Mobile Frontend
 ![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge)
-![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
+
+# Fullstack Frameworks
+![Nuxt.TS](https://img.shields.io/badge/Next.JS-01d19c?style=for-the-badge)
+![Next.TS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
+
+# Runtime
 ![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
 
 #### Data Analysis:
@@ -30,10 +40,9 @@ I'm a fullstack web developer and graphic designer with a strong foundation in K
 ### ▶️ Skills I'm currently learning
 ![Spring Boot Java](https://img.shields.io/badge/Java-Spring%20Boot-green?style=for-the-badge&labelColor=purple&logo=springboot)
 
-
 ### ✴️ Skills I will learn next:
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
-![PHP Programming](https://img.shields.io/badge/PHP-purple?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge)
+
 >![More](https://img.shields.io/badge/more_to_come...-black?style=for-the-badge)
 ## 🔗 Contact me!
 
