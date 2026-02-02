@@ -13,6 +13,7 @@ I'm a fullstack web developer and graphic designer with a strong foundation in K
 ![React](https://img.shields.io/badge/react-lightblue?style=for-the-badge)
 ![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
 ![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
+
 ![PHP-Codeigniter](https://img.shields.io/badge/PHP-orange?style=for-the-badge)
 ![SSDLC](https://img.shields.io/badge/Secure_Software_Development_Life_Cycle-blue?style=for-the-badge)
 
