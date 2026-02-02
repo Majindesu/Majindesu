@@ -21,6 +21,7 @@ I'm a fullstack web developer and graphic designer with a strong foundation in J
 # Web Frontend Frameworks
 ![React](https://img.shields.io/badge/TypeScript-React-00c1ff?style=for-the-badge&labelColor=180052&logo=typescript)
 ![Vue](https://img.shields.io/badge/TypeScript-Vue-01d19c?style=for-the-badge&labelColor=180052&logo=typescript)
+
 ![PHP-CI](https://img.shields.io/badge/PHP-Codeigniter-red?style=for-the-badge&labelColor=white&logo=codeigniter)
 
 # Mobile Frontend
