@@ -41,7 +41,7 @@ Listed here are skills I've learned during journey as a developer. Since each te
 
 ### Mobile Frontend 
 
-![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge&logo=react))
+![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge&logo=react)
 
 ---
 
@@ -50,8 +50,6 @@ Listed here are skills I've learned during journey as a developer. Since each te
 ![Nuxt.TS](https://img.shields.io/badge/Nuxt.TS-0ba368?style=for-the-badge&logo=vuedotjs)
 
 ![Next.TS](https://img.shields.io/badge/Next.TS-black?style=for-the-badge&logo=nextdotjs)
-
-)
 
 ---
 
