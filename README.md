@@ -47,9 +47,11 @@ Listed here are skills I've learned during journey as a developer. Since each te
 
 ### Fullstack Frameworks
 
-![Nuxt.TS](https://img.shields.io/badge/Nuxt.TS-01d19c?style=for-the-badge)
+![Nuxt.TS](https://img.shields.io/badge/Nuxt.TS-01d19c?style=for-the-badge&logo=vuedotjs)
 
-![Next.TS](https://img.shields.io/badge/Next.TS-black?style=for-the-badge)
+![Next.TS](https://img.shields.io/badge/Next.TS-black?style=for-the-badge&logo=nextdotjs)
+
+)
 
 ---
 
