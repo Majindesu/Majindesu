@@ -3,11 +3,11 @@
 ### I'm a Biomedical Engineering graduate specializing in software and machine learning and am currently on a path towards being a security-oriented software developer
 
 ## 🚀 About Me
-I'm a fullstack web developer and graphic designer with a strong foundation in Java, Python and Javascript/Typescript as well as wireframing applications such as Figma. I am also in the process of learning Cybersecurity in order to become a security-oriented software developer as well as a cybersecurity professional. I am most familiar with a PostgreSQL, ReactTs, HonoJs and Node Techstack. I'm striving to be a versatile developer and am currently learning other stacks.
+As a full-stack web developer and graphic designer, I have a solid foundation in Java, Python, and JavaScript/TypeScript, along with experience in wireframing applications like Figma. My most familiar tech stack includes PostgreSQL, React TypeScript, Hono.js, and Node.js. However, I’m dedicated to becoming a versatile developer and am actively exploring new technologies and stacks to enhance my skill set.
 
-# 🛠 Skills
+## 🛠 Skills
 
-### ✅ Skills I've learned
+Listed here are skills I've learned during journey as a developer. Since each technology/framework have their own strengths and weaknesses, I am hoping to learn everything that I can about the intricacies of each so that I can mix and match any of these to make the most optimal stack for a lot of different use cases.
 
 ---
 
