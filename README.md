@@ -27,8 +27,8 @@ I'm a fullstack web developer and graphic designer with a strong foundation in J
 ![ReactNative](https://img.shields.io/badge/react_native-lightblue?style=for-the-badge)
 
 # Fullstack Frameworks
-![Nuxt.TS](https://img.shields.io/badge/Next.JS-01d19c?style=for-the-badge)
-![Next.TS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge)
+![Nuxt.TS](https://img.shields.io/badge/Nuxt.TS-01d19c?style=for-the-badge)
+![Next.TS](https://img.shields.io/badge/Next.TS-black?style=for-the-badge)
 
 # Runtime
 ![Node](https://img.shields.io/badge/node-green?style=for-the-badge)
